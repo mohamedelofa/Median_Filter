@@ -13,12 +13,10 @@ A simple image processing tool that applies a Median Filter to PPM images to red
 
 To display PPM files, you can use [XnViewMP](https://www.xnview.com/en/xnviewmp/), a free and versatile image viewer that supports the PPM format.
 
-### Example Image
+## Program Screenshots
 
-Below is an example screenshots from this repository:
-
-![input screenshot](images/Screenshot 2025-08-09 210025.png)
-![output screenshot](images/Screenshot 2025-08-09 210041.png)
+![Input Screenshot](images/Screenshot%202025-08-09%20210025.png)
+![Output Screenshot](images/Screenshot%202025-08-09%20210041.png)
 
 
 ## Technologies
