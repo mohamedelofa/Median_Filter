@@ -9,6 +9,10 @@ A simple image processing tool that applies a Median Filter to PPM images to red
 - **Configurable Kernel Size:** Allows users to specify the size of the kernel for flexible filtering.
 - **Border Handling:** Adds padding to manage image borders without artifacts.
 
+- ## Viewing PPM Files
+
+To display PPM files, you can use [XnViewMP](https://www.xnview.com/en/xnviewmp/), a free and versatile image viewer that supports the PPM format.
+
 ## Technologies
 
 - **Language:** C++
