@@ -15,10 +15,9 @@ To display PPM files, you can use [XnViewMP](https://www.xnview.com/en/xnviewmp/
 
 ### Example Image
 
-Below is an example `.ppm` image from this repository:
+Below is an example screenshots from this repository:
 
 ![input screenshot](images/Screenshot 2025-08-09 210025.png)
-
 ![output screenshot](images/Screenshot 2025-08-09 210041.png)
 
 
